@@ -1,0 +1,14 @@
+{
+  "pins" : [
+    {
+      "identity" : "preselected-photoui-uikit",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/jaesung-0o0/preselected-photoui-uikit",
+      "state" : {
+        "revision" : "5c266649ab09ddfabfb6573a6172dd9287f2549f",
+        "version" : "1.0.0"
+      }
+    }
+  ],
+  "version" : 2
+}

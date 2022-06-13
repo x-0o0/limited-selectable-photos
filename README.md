@@ -1,7 +1,14 @@
 # PreselectedPhotoUI
+
 Use `PreselectedPhotoViewController` to handle limited photo access case in your app.
 
 ## Overview
+
+<p align="center">
+ <img src="https://user-images.githubusercontent.com/53814741/173444404-7f5cf79f-da02-46f2-9571-6712b230e8eb.png" width="30%"/>
+ <img src="https://user-images.githubusercontent.com/53814741/173444425-e5852d9a-c29e-4483-be7a-1fb1712ff40b.png" width="30%"/>
+ <img src="https://user-images.githubusercontent.com/53814741/173444434-e991a839-fada-4d3c-a256-8d0aff8912c8.png" width="30%"/>
+</p>
 
 ### Supports
 
